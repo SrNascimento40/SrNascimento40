@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React and Typescript
 - 📫 How to reach me: wallacediogo10@hotmail.com
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/SrNascimento40">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrNascimento40&include_all_commits=true&layout=compact&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrNascimento40&layout=compact&langs_count=7&theme=dark"/>
