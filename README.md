@@ -20,6 +20,7 @@
   <img align="center" alt="Nascimento-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Nascimento-Elm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg">
   <img align="center" alt="Nascimento-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Nascimento-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 </div>
   
  ##
