@@ -1,7 +1,7 @@
 ### Hi there, i'm Wallace Nascimento 👋
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I’m focoused in learning React Native and Typescript
+- 🔭 I’m currently working on FullStack Development using ruby on rails
+- 🌱 I’m focoused in learning Web Development
 - 📫 How to reach me: wallacediogo10@hotmail.com
 
 <div align="start">
